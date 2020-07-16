@@ -116,5 +116,25 @@ The following example is included in the file, so simply run `python bless.py` t
 [1] Rudi A, Calandriello D, Carratino L, Rosasco L.
            On fast leverage score sampling and optimal learning. In NeurIPS 2018
 
+```
+@inproceedings{rudi2018fast,
+  title={On fast leverage score sampling and optimal learning},
+  author={Rudi, Alessandro and Calandriello, Daniele and Carratino, Luigi and Rosasco, Lorenzo},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={5672--5682},
+  year={2018}
+}
+```
+
 [2] Calandriello D, Lazaric A, Valko M.
            Distributed adaptive sampling for kernel matrix approximation. AI&STATS 2017.
+
+```
+@inproceedings{calandriello2017distributed,
+  title={Distributed adaptive sampling for kernel matrix approximation},
+  author={Calandriello, Daniele and Lazaric, Alessandro and Valko, Michal},
+  booktitle={Artificial Intelligence and Statistics},
+  pages={1421--1429},
+  year={2017}
+}
+```
